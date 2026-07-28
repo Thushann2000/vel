@@ -1,0 +1,40 @@
+VELVET VOGUE — IMAGE FILES NEEDED
+=================================
+Put your photos in THIS folder (velvet-vogue/images/) using the EXACT
+names below. Names are case-sensitive on real Linux servers, so keep
+them lowercase exactly as shown. Keep the .jpg extension (or change the
+path — see notes at the bottom).
+
+PRODUCT PHOTOS  (portrait, ratio 4:5 — e.g. 800 x 1000 px)
+  blazer.jpg
+  slip-dress.jpg
+  roll-neck.jpg
+  trousers.jpg
+  wool-coat.jpg
+  poplin-shirt.jpg
+  midi-skirt.jpg
+  biker-jacket.jpg
+
+CATEGORY PHOTOS  (portrait, ratio 3:4 — e.g. 800 x 1000 px)
+  category-outerwear.jpg
+  category-dresses.jpg
+  category-knitwear.jpg
+  category-trousers.jpg     (optional)
+  category-essentials.jpg   (optional)
+  category-skirts.jpg       (optional)
+
+BACKGROUND / BANNER PHOTOS  (landscape, wide — e.g. 1920 x 1080 px)
+  hero.jpg           -> big banner on the home page
+  page-hero.jpg      -> banner strip on Shop / Cart / Contact / Account
+  editorial.jpg      -> "Our Philosophy" section on home (portrait 4:5 is fine)
+
+NOTES
+-----
+1. Until a real file exists at a path, the site auto-shows a branded
+   placeholder (needs internet). Add the real file -> it loads instantly,
+   NO code change needed.
+2. To use a DIFFERENT filename for a product, just sign in as admin ->
+   Admin -> Products -> Edit -> change the "Image path" field
+   (e.g. images/my-photo.jpg). No renaming required.
+3. Prefer .jpg for photos (smaller). If you must use .png/.webp, update
+   the path in the admin panel (products) or in the code (backgrounds).
